@@ -1,6 +1,6 @@
 # Installation
 
-1. Download The_Cycle_Release.zip and YDeveloperSettings.in file bellow
+1. Download [The_Cycle_Release.zip](https://mega.nz/file/NcQn1Lqa#ElIDb0Nk3xVF7MlbyGuLpPo2iDgNjPXGeM7Y1d1hEZw) and [YDeveloperSettings.ini](YDeveloperSettings.ini)
 2. Replace in `%AppData%\Local\Prospect\Saved\Config\WindowsNoEditor` the file attached `YDeveloperSettings.ini` (if the folder doesn't exist just launch the game)
 3. Multiplayer Only : Download and install [RadminVPN](https://www.radmin-vpn.com/fr/) or [Hamachi](https://vpn.net/)
 
@@ -29,5 +29,8 @@ You now have access to the in-game console if you press `F1`
 
 > [!WARNING]
 > There is still an anti-AFK system, so if the host is not in spectator mode, it will kick everyone out of the server. To fix that, wait for a player to connect to the server, then use `suicide` command on the host and everything will be fine until the end of the game
+>
+> 
+> Sniper scopes are bugged in multiplayer : if a player scope, he become invisible for everyone
 
 For now, you can only have access to random suits, weapons and ability. If you re-connect to the host, you will have another loadout.
