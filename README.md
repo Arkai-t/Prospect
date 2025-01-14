@@ -1,3 +1,5 @@
+[🇫🇷](README_FR.md)  [🇬🇧](README.md)
+
 # Installation
 
 1. Download [The_Cycle_Release.zip](https://mega.nz/file/NcQn1Lqa#ElIDb0Nk3xVF7MlbyGuLpPo2iDgNjPXGeM7Y1d1hEZw) and [YDeveloperSettings.ini](YDeveloperSettings.ini)
