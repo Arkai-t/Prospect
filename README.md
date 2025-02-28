@@ -12,13 +12,9 @@ Open `run_game.bat`
 
 You now have access to the in-game console if you press `F1`
 
-## Usefull commands
+## List of commands
 
-- Change map : `open <map>` (List of maps: MP_Map01_P, MP_Map02_P, Station_P)
-- Change name : `setname <YourName>`
-- Open a server : `open <map>?Listen`
-- Join a server : `open <@IP>`
-- Foam yourself : `suicide` 
+[Prospect/wiki/Commands](https://github.com/Arkai-t/Prospect/wiki/Commands)
 
 ## Multiplayer
 
@@ -29,7 +25,10 @@ You now have access to the in-game console if you press `F1`
 > [!CAUTION]
 > Host cannot interact with the game. But he can launch another instance of the game and connect to the game with `open 127.0.0.1`
 
-> [!WARNING]
-> There is still an anti-AFK system, so if the host is not in spectator mode, it will kick everyone out of the server. To fix that, wait for a player to connect to the server, then use `suicide` command on the host and everything will be fine until the end of the game
-
 For now, you can only have access to random suits, weapons and ability. If you re-connect to the host, you will have another loadout.
+
+## WIP
+[ ] Choose you starting loadout
+[ ] Choose your skins
+[ ] Server automation
+[ ] Various fixes (Boxer jump, steal contracts)
