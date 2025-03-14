@@ -1,6 +1,6 @@
 # Installation
 
-1. Download [The_Cycle_Release.zip](https://drive.google.com/file/d/1M3beRG8YTR2jwcY-wJgA6Ov5ruKJlVfF/view?usp=sharing) and [YDeveloperSettings.ini](YDeveloperSettings.ini)
+1. Download [The_Cycle_Release.zip](https://drive.google.com/file/d/13rrB8aYFOnSS7AeXA8fE39Z0aAUwSkDD/view?usp=sharing) and [YDeveloperSettings.ini](YDeveloperSettings.ini)
 2. Replace in `%LocalAppData%\Local\Prospect\Saved\Config\WindowsNoEditor` the file attached `YDeveloperSettings.ini` (if the folder doesn't exist just launch the game)
 3. Launch `run_game.bat` to update the game to the last version
 4. Multiplayer Only : Download and install [RadminVPN](https://www.radmin-vpn.com/fr/) or [Hamachi](https://vpn.net/)
